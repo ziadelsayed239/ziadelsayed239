@@ -35,6 +35,6 @@ I am currently working on an **E-learning System** using **.NET 8 MVC** and **SQ
 
 ## 📊 &nbsp;GitHub Stats
 
-![Ziad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZiadElSayed&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=0E7FC0&text_color=a4aacb&icon_color=007ec6)
+![Ziad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziadelsayed239&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=0E7FC0&text_color=a4aacb&icon_color=007ec6)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZiadElSayed&theme=dark&count_private=true&bg_color=0d1116&title_color=0E7FC0&text_color=a4aacb&icon_color=007ec6)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ziadelsayed239&theme=dark&count_private=true&bg_color=0d1116&title_color=0E7FC0&text_color=a4aacb&icon_color=007ec6)
