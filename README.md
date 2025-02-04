@@ -4,13 +4,13 @@
 
 # 👋 &nbsp;Hello there
 
-I'm **Ziad ElSayed**, a passionate .NET developer specializing in building high-performance web applications using **ASP.NET Core** and **SQL Server**. I love experimenting with the latest technologies and developing innovative solutions.
+I'm **Ziad Elsayed**, a passionate .NET developer specializing in building high-performance web applications using **ASP.NET Core** and **SQL Server**. I love experimenting with the latest technologies and developing innovative solutions.
 
 🔹 Proficient in **.NET 8 MVC**, **C#**, and **Stored Procedures**.
 🔹 Interested in **E-learning solutions** and **E-commerce development**.
 🔹 Always looking for new projects to challenge my skills and build top-notch software solutions.
 
-Follow me on [GitHub](https://github.com/ZiadElSayed) to check out my latest projects.
+Follow me on [GitHub](https://github.com/ziadelsayed239) to check out my latest projects.
 
 ---
 
