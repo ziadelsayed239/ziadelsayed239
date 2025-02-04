@@ -1,6 +1,6 @@
 ![Hey there, I'm Ziad ElSayed. I'm a .NET developer. Check out my work]
 
-[![GitHub followers](https://img.shields.io/github/followers/ZiadElSayed?logo=GitHub&style=for-the-badge)](https://github.com/ZiadElSayed) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/ZiadElSayed?logo=github&style=for-the-badge)](https://github.com/ZiadElSayed)
+[![GitHub followers](https://img.shields.io/github/followers/ziadelsayed239?logo=GitHub&style=for-the-badge)](https://github.com/ziadelsayed239) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/ziadelsayed239?logo=github&style=for-the-badge)](https://github.com/ziadelsayed239)
 
 # 👋 &nbsp;Hello there
 
