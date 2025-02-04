@@ -1,4 +1,4 @@
-![Hey there, I'm Ziad ElSayed. I'm a .NET developer. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
+![Hey there, I'm Ziad ElSayed. I'm a .NET developer. Check out my work]
 
 [![GitHub followers](https://img.shields.io/github/followers/ZiadElSayed?logo=GitHub&style=for-the-badge)](https://github.com/ZiadElSayed) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/ZiadElSayed?logo=github&style=for-the-badge)](https://github.com/ZiadElSayed)
 
