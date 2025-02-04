@@ -22,19 +22,7 @@ I am currently working on an **E-learning System** using **.NET 8 MVC** and **SQ
 
 ---
 
-## 🛠 &nbsp;My Tech Stack
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/> &nbsp;
-<img src="https://images.app.goo.gl/ZgQzZEq6CXkAWNoh6" alt=".NET" width="50" height="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL Server" width="50" height="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/> &nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-
----
-
 ## 📊 &nbsp;GitHub Stats
 
 ![Ziad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ziadelsayed239&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=0E7FC0&text_color=a4aacb&icon_color=007ec6)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ziadelsayed239&theme=dark&count_private=true&bg_color=0d1116&title_color=0E7FC0&text_color=a4aacb&icon_color=007ec6)
