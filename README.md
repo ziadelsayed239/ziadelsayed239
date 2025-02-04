@@ -18,13 +18,18 @@ Follow me on [GitHub](https://github.com/ziadelsayed239) to check out my latest 
 
 I am currently working on an **E-learning System** using **.NET 8 MVC** and **SQL Server Stored Procedures**, enabling instructors to create courses and manage content seamlessly.
 
-![E-learning project](https://github.com/ZiadElSayed/assets/e-learning.png)
+![E-learning project](https://github.com/ziadelsayed239/Learning-Platform-with-MVC.png)
 
 ---
 
 ## 🛠 &nbsp;My Tech Stack
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL Server" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/> &nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/> &nbsp;
+<img src="https://images.app.goo.gl/ZgQzZEq6CXkAWNoh6" alt=".NET" width="50" height="50"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL Server" width="50" height="50"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
 
 ---
 
